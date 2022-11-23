@@ -1,0 +1,11 @@
+.Navbar{
+    background: url("../Pictures/Lohi.jpeg");
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.Link{
+    text-decoration: none;
+}

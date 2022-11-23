@@ -1,0 +1,14 @@
+.Button_size_m{
+    height: 50px;
+    width: 90px;
+    border-radius: 20px;
+}
+
+.Button_backgroundColor_red {
+    background-color: red;
+    border-color: red;
+}
+
+.Button_color_white{
+    color: white;
+}
